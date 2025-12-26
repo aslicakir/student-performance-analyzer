@@ -1,4 +1,4 @@
-# Student Performance Analyzer 🎓
+# Student Performance Analyzer 
 
 This project demonstrates the use of functions and modular programming in Python.
 
